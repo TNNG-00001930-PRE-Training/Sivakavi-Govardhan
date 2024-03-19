@@ -13,4 +13,3 @@ if __name__ == "__main__":
     print("Multiply 10 and 5 is:",multiply_numbers(10,5))
     print("Divide 10 by 2 is:",divide_numbers(10,2))
     print("Modulo divide 10 by 3 is:",modulus_numbers(10,3))
-
