@@ -9,6 +9,7 @@ In case of input data being supplied to the question, it should be assumed to be
 '''
 def word(n):
     k=n.split(",")
-    print(sorted(k))
+    l=sorted(k)
+    print(",".join(l))
 n=input("Enter the string :")
 word(n)
